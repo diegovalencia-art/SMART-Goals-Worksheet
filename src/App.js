@@ -135,7 +135,7 @@ function App() {
             </h1>
 
             <div style={styles.noticeBox}>
-              Please make sure to click <strong>"Next"</strong> before answering.
+              Please make sure to click <strong>"Start Assigment"</strong> before answering.
             </div>
 
             <p>
