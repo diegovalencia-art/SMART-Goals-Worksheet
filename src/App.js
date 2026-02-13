@@ -163,7 +163,7 @@ function App() {
             </h1>
 
             <div style={styles.noticeBox}>
-              Please click <strong>"Next"</strong> before answering the questions.
+              Please click <strong>"Start Assignment"</strong> before answering the questions.
             </div>
 
             <input
